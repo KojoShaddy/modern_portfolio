@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "kojoshaddy-c66d0"
+  },
+  "targets": {
+    "kojoshaddy-c66d0": {
+      "hosting": {
+        "app": [
+          "kojoshaddy"
+        ]
+      }
+    }
+  }
+}
